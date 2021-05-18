@@ -1,0 +1,5 @@
+process foo {
+    """
+    echo "HELLO"
+    """
+}
